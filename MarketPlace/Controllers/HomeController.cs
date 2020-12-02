@@ -1,4 +1,4 @@
-﻿using eshopSoludtion.Webapp.Models;
+﻿using MarketPlace.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace eshopSoludtion.Webapp.Controllers
+namespace MarketPlace.Controllers
 {
     public class HomeController : Controller
     {
